@@ -1,0 +1,11 @@
+Link do Dataset em formato csv:
+https://drive.google.com/drive/folders/1opDVewP8JIWlAoFjtnJDvlHuiu0OcQ0s?usp=sharing 
+
+Link do Dataset Original:
+https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
+
+Link dos Modelos Treinados: 
+https://drive.google.com/drive/folders/1D5KlBKN5amAp-15obqpjlvtJi8ocytmZ?usp=sharing 
+
+Link do Github:
+https://github.com/mrlocastellani/pamap2/blob/main/pamap2_final.ipynb
